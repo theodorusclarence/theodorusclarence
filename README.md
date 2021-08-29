@@ -1,5 +1,5 @@
-[![Clarence's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/theodorusclarence)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=dark&hide=php)](https://github.com/theodorusclarence)
+[![Clarence's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs&bg_color=222222)](https://github.com/theodorusclarence)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&bg_color=222222)](https://github.com/theodorusclarence)
 
 # 👋 Hello!
 
