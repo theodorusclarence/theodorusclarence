@@ -8,3 +8,8 @@ You can call me **Clarence**, kindly visit my site at https://theodorusclarence.
 ![](https://komarev.com/ghpvc/?username=theodorusclarence&color=gray)
 
 ![](https://hit.yhype.me/github/profile?user_id=55318172)
+
+Also, let's connect on twitter! Feel free to dm me for discussion!
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/th_clarence.svg?style=social&label=Follow%20%40th_clarence)](https://twitter.com/th_clarence)
+
