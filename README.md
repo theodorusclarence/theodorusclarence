@@ -1,7 +1,7 @@
-<div style="display: grid; grid-template-columns: 1fr 1fr">
-  <img src="https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=theodorusclarence&layout=compact&theme=react" />
+<div>
+  <img height="154" src="https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php" />
+  <img height="216" src="https://github-readme-stats.vercel.app/api/wakatime?username=theodorusclarence&layout=compact&theme=react" />
 </div>
 
 # 👋 Hello!
