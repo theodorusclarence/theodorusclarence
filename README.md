@@ -6,13 +6,15 @@
 
 # 👋 Hello!
 
-You can call me **Clarence**, kindly visit my site at https://theodorusclarence.com
+You can call me **Clarence**, I work with React Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models.
 
-![](https://komarev.com/ghpvc/?username=theodorusclarence&color=gray)
+| theodorusclarence.com | docs.thcl.dev
+|:-:|:-:|
+|<a href="https://theodorusclarence.com"><img src="https://user-images.githubusercontent.com/55318172/147338011-1584346a-24bc-435c-bb3b-275ed6640402.png" alt="Screenshot of theodorusclarence.com" width="400"></a><br />Online portfolio and blog<br /><br /><a href="https://theodorusclarence.com">**Visit**</a> | <a href="https://docs.thcl.dev/"><img src="https://user-images.githubusercontent.com/55318172/147338448-e5836ea9-bda9-46ef-a391-6627d0ba1d49.png" alt="Screenshot of docs.thcl.dev" width="400"></a><br />Personal development practices<br /><br /><a href="https://theodorusclarence.com">**Visit**</a> |
 
-![](https://hit.yhype.me/github/profile?user_id=55318172)
 
 Also, let's connect on twitter! Feel free to dm me for discussion!
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/th_clarence.svg?style=social&label=Follow%20%40th_clarence)](https://twitter.com/th_clarence)
-
+![Profile views](https://komarev.com/ghpvc/?username=theodorusclarence&color=gray)
+![](https://hit.yhype.me/github/profile?user_id=55318172)
