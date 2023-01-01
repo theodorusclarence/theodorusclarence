@@ -17,7 +17,7 @@ Also, let's connect on twitter! Feel free to dm me for discussion!
 ## Statistics
 
 <div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs" />
+  <a href="https://github.com/theodorusclarence?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=theodorusclarence&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=theodorusclarence&layout=compact&theme=react&langs_count=6" />
+  <a href="https://wakatime.com/@theodorusclarence"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=theodorusclarence&layout=compact&theme=react&langs_count=6" /></a>
 </div>
