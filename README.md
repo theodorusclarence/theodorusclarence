@@ -2,9 +2,9 @@
 
 You can call me **Clarence**. I work with React Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models.
 
-| theodorusclarence.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;docs.thcl.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|:-:|:-:|
-|<a href="https://theodorusclarence.com"><img src="https://user-images.githubusercontent.com/55318172/147338011-1584346a-24bc-435c-bb3b-275ed6640402.png" alt="Screenshot of theodorusclarence.com" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://theodorusclarence.com">**Visit**</a> | <a href="https://docs.thcl.dev/"><img src="https://user-images.githubusercontent.com/55318172/147338448-e5836ea9-bda9-46ef-a391-6627d0ba1d49.png" alt="Screenshot of docs.thcl.dev" width="400"></a><br />Personal development practices<br /><br /><a href="https://docs.thcl.dev">**Visit**</a> |
+| theodorusclarence.com |
+|:-:|
+|<a href="https://theodorusclarence.com?ref=readme"><img src="https://github.com/user-attachments/assets/4e80af88-27a7-4757-80fe-b0096419db4a" alt="Screenshot of theodorusclarence.com" width="400"></a><br /><a href="https://theodorusclarence.com?ref=readme">Find my projects and writings here</a> | 
 
 
 Also, let's connect on twitter! Feel free to dm me for discussion!
