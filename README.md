@@ -4,7 +4,8 @@ You can call me **Clarence**. I work with React Ecosystem, and write to teach pe
 
 | theodorusclarence.com |
 |:-:|
-|<a href="https://theodorusclarence.com?ref=readme"><img src="https://github.com/user-attachments/assets/4e80af88-27a7-4757-80fe-b0096419db4a" alt="Screenshot of theodorusclarence.com" width="400"></a><br /><a href="https://theodorusclarence.com?ref=readme">Find my projects and writings here</a> | 
+|<a href="https://theodorusclarence.com?ref=readme"><img width="400" alt="Screenshot of theodorusclarence.com" src="https://github.com/user-attachments/assets/1a864a57-169d-45d2-81fa-438bc0e77474"></a><br /><a href="https://theodorusclarence.com?ref=readme">Find my projects and writings here</a> | 
+
 
 
 Also, let's connect on twitter! Feel free to dm me for discussion!
